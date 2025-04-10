@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Hello! I'm Christie, a designer based in London." />
         <p className="description">
            This space is under renovation. To see my portfolio, go to <code>https://christie-lau.webflow.io/</code>
-          <a href"https://christie-lau.webflow.io/">Explore Christie's portfolio </a>
+          <a href="https://christie-lau.webflow.io/">Explore Christie's portfolio</a>
         </p>
       </main>
 
